@@ -16,4 +16,4 @@ document.addEventListener('DOMContentLoaded', function() {
                 console.error('Error fetching joke:', error);
             });
     });
-});+
+});
